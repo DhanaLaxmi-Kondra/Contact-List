@@ -75,7 +75,7 @@ class App extends Component {
           <h1 className="heading">Contacts</h1>
           <form className="contact-form-container" onSubmit={this.onAddContact}>
             <input
-    value={name}
+              value={name}
               onChange={this.onChangeName}
               className="input"
               placeholder="Name"
