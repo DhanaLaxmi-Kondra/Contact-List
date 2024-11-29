@@ -29,7 +29,7 @@ const ContactItem = props => {
         </button>
       </div>
     </li>
-     </li>
+     
   )
 }
 
