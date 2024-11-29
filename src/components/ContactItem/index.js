@@ -31,6 +31,4 @@ const ContactItem = props => {
     </li>
   )
 }
-
-
 export default ContactItem
